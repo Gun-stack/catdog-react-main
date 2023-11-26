@@ -30,6 +30,8 @@ url : /catdog 을 basename으로 변경 , 구현된 페이지 mapping완료
 img소스 파일앞에 '/'을 붙여줘야함
 ##
 회원가입 등 writeform 작성완료 백엔드 구현시 확인필요
+###
+로그인 시큐리티관련 수업 완료시 OAuth2적용해서 구현예정 
 
 
 
